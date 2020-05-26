@@ -4,7 +4,7 @@
 2. 然后是变量声明必须有类型，强类型语言；
 3. True 为true， None 为null；
 4. 环境配置： 首先是需要大量的设置当前本地版本openjdk14？并设置application，熟悉后再来理解这些配置的作用
-    ![image-0](https://github.com/LNZ001/Java_ex/blob/master/20200525230918.png)
+    ![image-0](https://github.com/LNZ001/Java_ex/blob/master/images/20200525230918.png)
 5. 作为强类型语言，返回值也是函数必须说明，且代码明确返回的。
 6. java中有大量的要导入的java.util.*中的数据类型结构，很常用, 且声明语法使用new实例化。(这里两个<>的含义？)
     ```java
